@@ -1,7 +1,7 @@
 <?php
 // Get your access id and secret key here: https://moz.com/products/api/keys
-$accessID = "mozscape-55fbae0a17";
-$secretKey = "f0994f6e645d5314ca89cc60cafee8e7";
+$accessID = ""; // Put Your API Key here
+$secretKey = ""; // Insert Your API Secret here
 // Set your expires times for several minutes into the future.
 // An expires time excessively far in the future will not be honored by the Mozscape API.
 $expires = time() + 3000;
