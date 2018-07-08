@@ -6,7 +6,7 @@ Moz allows only few queries on it's website but Using this tool you can get moz 
 
 It's written in PHP using API of MOZ which is Mozscape.
 
-#### DEMO: [Check Moz Metrics](https://geekryptor.co/check-moz-metrics/)
+#### DEMO: [Check Moz Metrics](https://goo.gl/6hLQDn)
 
 Thanks To - 
 * PHP
